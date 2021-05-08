@@ -19,7 +19,7 @@
 # Help
 
 ```bash
-usage: subfinder.py [-h] [--domain DOMAIN] [--admin_page]
+usage: subfinder.py [-h] [--domain DOMAIN] [--top_ports]
 
 A Tool For Find & Scan SubDomains
 
